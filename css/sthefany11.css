@@ -1,0 +1,233 @@
+*{
+  background-color: black;
+}
+
+
+.teste2{
+
+position: absolute;
+width: 1440px;
+height: 210px;
+left: 0px;
+top: 0px;
+
+}
+.teste3{
+position: absolute;
+width: 1277px;
+height: 73px;
+left: 76px;
+top: 275px;
+
+}
+.teste4{
+position: absolute;
+width: 318px;
+height: 49px;
+left: 561px;
+top: 226px;
+
+color: white;
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 42px;
+}
+.bloco1{
+  position: absolute;
+  width: 311px;
+  height: 574px;
+  left: 40px;
+  top: 304px;
+
+}
+.infilltrado{
+  position: absolute;
+  width: 311px;
+height: 316px;
+left: 58px;
+top: 304px;
+}
+.teste51{
+  position: absolute;
+  width: 311px;
+  height: 258px;
+  left: 58px;
+  top: 620px;
+  color: white;
+}
+.bloco2{
+  position: absolute;
+width: 311px;
+height: 574px;
+left: 397px;
+top: 304px;
+}
+.turma{
+  position: absolute;
+  width: 311px;
+height: 316px;
+top: 304px;
+left: 397px;
+}
+.teste52{
+  position: absolute;
+  width: 311px;
+height: 258px;
+left: 397px;
+top: 620px;
+  color: white;
+}
+.bloco3{
+  position: absolute;
+width: 311px;
+height: 574px;
+left: 736px;
+top: 304px;
+}
+.upload{
+  position: absolute;
+width: 311px;
+height: 316px;
+left: 736px;
+top: 304px;
+}
+.teste53{
+  position: absolute;
+  width: 311px;
+height: 258px;
+left: 736px;
+top: 620px;
+color: white;
+}
+.bloco4{
+  position: absolute;
+width: 311px;
+height: 574px;
+left: 1073px;
+top: 304px;
+}
+.chris{
+  position: absolute;
+width: 311px;
+height: 316px;
+left: 1073px;
+top: 304px;
+}
+.teste54{
+  position: absolute;
+  width: 311px;
+  height: 258px;
+  left: 1073px;
+  top: 620px;
+  color: white;
+}
+.bloco5{
+  position: absolute;
+width: 311px;
+height: 574px;
+left: 57px;
+top: 907px;
+}
+.reacher{
+  position: absolute;
+width: 311px;
+height: 316px;
+left: 57px;
+top: 907px;
+}
+.teste55{
+  position: absolute;
+width: 311px;
+height: 258px;
+left: 57px;
+top: 1223px;
+color: white;
+}
+.bloco6{
+  position: absolute;
+width: 311px;
+height: 574px;
+left: 396px;
+top: 907px;
+}
+.theboys{
+  position: absolute;
+width: 311px;
+height: 316px;
+left: 396px;
+top: 907px;
+}
+.teste56{
+  position: absolute;
+width: 311px;
+height: 258px;
+left: 396px;
+top: 1223px;
+color: white;
+}
+.bloco7{
+  position: absolute;
+width: 311px;
+height: 574px;
+left: 735px;
+top: 907px;
+}
+.myson{
+  position: absolute;
+width: 311px;
+height: 316px;
+left: 735px;
+top: 907px;
+}
+.teste57{
+  position: absolute;
+width: 311px;
+height: 258px;
+left: 735px;
+top: 1223px;
+color: white;
+}
+.bloco7{
+  position: absolute;
+width: 311px;
+height: 574px;
+left: 1072px;
+top: 907px;
+}
+.thebatman{
+  position: absolute;
+width: 311px;
+height: 316px;
+left: 1072px;
+top: 907px;
+}
+.teste58{
+  position: absolute;
+width: 311px;
+height: 258px;
+left: 1072px;
+top: 1223px;
+color: white;
+}
+.email{
+  color: white;
+  position: absolute;
+  left: 58px;
+  top: 1423px;
+}
+.branco{
+  color: white;
+}
+.estado{
+  color: white;
+}
+.em{
+  color: white;
+}
+.nome{
+  color: white;
+}
+.telefone{
+  color: white;
+}
